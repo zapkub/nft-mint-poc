@@ -1,8 +1,6 @@
 {
-    "compilerOptions": {
-        "module": "commonjs"
-    },
-    "exclude": [
-        "node_modules"
-    ]
+  "compilerOptions": {
+    "lib": ["ES6"],
+    "allowSyntheticDefaultImports": true
+  }
 }

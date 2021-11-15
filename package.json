@@ -8,6 +8,7 @@
     "@solana/spl-token": "^0.1.8",
     "@solana/web3.js": "^1.30.2",
     "esbuild": "^0.13.13",
-    "esbuild-register": "^3.1.2"
+    "esbuild-register": "^3.1.2",
+    "loglevel": "^1.7.1"
   }
 }
